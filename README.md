@@ -44,31 +44,31 @@ following Monday at noon EST. Teams were allowed to have up to three people.
 
 ### Competition #2: Food
 
-- 72h-entry
-- 72H_GameDev\Graupmann\Source
-- 72hour
-- 72hrs-SizeMatters
-- antsmash
-- Apok
-- burger_uni
-- Competition_Entry
-- CoriolisPizza
-- edibles
-- frootybooty
-- FruitSalad
-- ISF
-- KebabKing
-- malevolant concoction
-- mSnack
-- PicnicPicnic
-- PizzeriaPanic
-- popcornmadness
-- RoboCafe
-- runpizzarunfinal
-- Savior Carrot
-- short_order
-- SinsOfFathers
-- Zooble01
+- [72h-entry (mikz0r's entry)](https://github.com/72hourgdc-2004-january/mikz0r)
+- [72H_GameDev (Graupmann's entry)](https://github.com/72hourgdc-2004-january/Graupmann)
+- [72hour (yq713's entry)](https://github.com/72hourgdc-2004-january/yq713)
+- [72hrs-SizeMatters (bluescrn's entry](https://github.com/72hourgdc-2004-january/bluescrn)
+- [antsmash](https://github.com/72hourgdc-2004-january/antsmash)
+- [Apok](https://github.com/72hourgdc-2004-january/Apok)
+- [burger_uni](https://github.com/72hourgdc-2004-january/burger_uni)
+- [Competition_Entry (nerd_boy's entry)](https://github.com/72hourgdc-2004-january/nerd_boy)
+- [CoriolisPizza](https://github.com/72hourgdc-2004-january/CoriolisPizza)
+- [edibles](https://github.com/72hourgdc-2004-january/edibles)
+- [frootybooty](https://github.com/72hourgdc-2004-january/frootybooty)
+- [FruitSalad](https://github.com/72hourgdc-2004-january/FruitSalad)
+- [ISF (genesisgenocide's entry)](https://github.com/72hourgdc-2004-january/genesisgenocide)
+- [KebabKing](https://github.com/72hourgdc-2004-january/KebabKing)
+- [malevolant concoction](https://github.com/72hourgdc-2004-january/malevolantconcoction)
+- [mSnack](https://github.com/72hourgdc-2004-january/mSnack)
+- [PicnicPicnic](https://github.com/72hourgdc-2004-january/PicnicPicnic)
+- [PizzeriaPanic](https://github.com/72hourgdc-2004-january/PizzeriaPanic)
+- [popcornmadness](https://github.com/72hourgdc-2004-january/popcornmadness)
+- [RoboCafe](https://github.com/72hourgdc-2004-january/RoboCafe)
+- [runpizzarun](https://github.com/72hourgdc-2004-january/runpizzarun)
+- [Savior Carrot](https://github.com/72hourgdc-2004-january/SaviorCarrot)
+- [short_order](https://github.com/72hourgdc-2004-january/short_order)
+- [SinsOfFathers](https://github.com/72hourgdc-2004-january/SinsOfFathers)
+- [Zooble01](https://github.com/72hourgdc-2004-january/Zooble01)
 
 ### Competition #3: Pirates
 
