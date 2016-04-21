@@ -11,7 +11,7 @@ following Monday at noon EST. Teams were allowed to have up to three people.
 ## Competition dates
 
 1. `Jul 22, 2003 - Jul 28, 2003` Theme: **Mindless Violence**
-2. `Jan 03, 2004 - Jan 05, 2004` Theme: **Food**
+2. `Jan 02, 2004 - Jan 05, 2004` Theme: **Food**
 3. `Jun 25, 2004 - Jun 28, 2004` Theme: **Pirates**
 4. `Dec 17, 2004 - Dec 20, 2004` Theme: **Arcade**
 5. `Jul 29, 2005 - Aug 01, 2005` Theme: **Horror**
