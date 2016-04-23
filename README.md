@@ -92,31 +92,30 @@ following Monday at noon EST. Teams were allowed to have up to three people.
 
 ### Competition #4: Arcade
 
-- allebob
-- aufsie11
-- buggin_setup
-- BunnyHunter
-- ColdComfort
-- DarkEye
-- dominoes
-- Endurion-Build-A-Planet
-- fashionbuster
-- Firecracker
-- foogs
-- GingerBreadMan
-- mechmyday
-- offslaught
-- robocalypse
-- RoidianFinalHour-GameDevGuys
-- sc2210
-- schpace
-- Skalle_-_Radar_Defense
-- SpaceTravellers
-- TheCantinaPartyv0.2
-- TwelveDays
-- vx-roboarena-1
-- wands
-- Yellowmind
+- [allebob](https://github.com/72hourgdc-2004-december/allebob)
+- [aufsie](https://github.com/72hourgdc-2004-december/aufsie)
+- [buggin](https://github.com/72hourgdc-2004-december/buggin)
+- [BunnyHunter](https://github.com/72hourgdc-2004-december/BunnyHunter)
+- [ColdComfort](https://github.com/72hourgdc-2004-december/ColdComfort)
+- [DarkEye](https://github.com/72hourgdc-2004-december/DarkEye)
+- [dominoes](https://github.com/72hourgdc-2004-december/dominoes)
+- [Endurion-Build-A-Planet](https://github.com/72hourgdc-2004-december/Endurion-Build-A-Planet)
+- [fashionbuster](https://github.com/72hourgdc-2004-december/fashionbuster)
+- [Firecracker](https://github.com/72hourgdc-2004-december/Firecracker)
+- [FOOGS](https://github.com/72hourgdc-2004-december/FOOGS)
+- [GingerBreadMan](https://github.com/72hourgdc-2004-december/GingerBreadMan)
+- [mechmyday](https://github.com/72hourgdc-2004-december/mechmyday)
+- [offslaught](https://github.com/72hourgdc-2004-december/offslaught)
+- [robocalypse](https://github.com/72hourgdc-2004-december/robocalypse)
+- [Roidian](https://github.com/72hourgdc-2004-december/Roidian)
+- [schpace](https://github.com/72hourgdc-2004-december/schpace)
+- [Skalle_-_Radar_Defense](https://github.com/72hourgdc-2004-december/Skalle_-_Radar_Defense)
+- [SpaceTravellers](https://github.com/72hourgdc-2004-december/SpaceTravellers)
+- [TheCantinaParty](https://github.com/72hourgdc-2004-december/TheCantinaParty)
+- [TwelveDays](https://github.com/72hourgdc-2004-december/TwelveDays)
+- [vx-roboarena](https://github.com/72hourgdc-2004-december/vx-roboarena)
+- [wands](https://github.com/72hourgdc-2004-december/wands)
+- [Yellowmind](https://github.com/72hourgdc-2004-december/Yellowmind)
 
 ### Competition #5: Horror
 
