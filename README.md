@@ -23,24 +23,24 @@ following Monday at noon EST. Teams were allowed to have up to three people.
 
 ### Competition #1: Mindless Violence
 
-- BloodStalker
-- Calamity
-- compete
-- EA
-- exmika
-- fraction
-- FryGuy
-- fw_pre
-- Gustav
-- HighwayHavoc
-- MiggetChainsawhands
-- mojo
-- mvei
-- mveimac
-- novawings
-- PooHillEntryTheMartian
-- spaceboardsfx
-- vietbunny
+- [BloodStalker](https://github.com/72hourgdc-2003-july/BloodStalker)
+- [Calamity](https://github.com/72hourgdc-2003-july/Calamity)
+- [evil-animation](https://github.com/72hourgdc-2003-july/evil-animation)
+- [exmika](https://github.com/72hourgdc-2003-july/exmika)
+- [fowl-weather](https://github.com/72hourgdc-2003-july/fowl-weather)
+- [fraction](https://github.com/72hourgdc-2003-july/fraction)
+- [FryGuy](https://github.com/72hourgdc-2003-july/FryGuy)
+- [Gustav](https://github.com/72hourgdc-2003-july/Gustav)
+- [HighwayHavoc](https://github.com/72hourgdc-2003-july/HighwayHavoc)
+- [MiggetChainsawhands](https://github.com/72hourgdc-2003-july/MiggetChainsawhands)
+- [mojo](https://github.com/72hourgdc-2003-july/mojo)
+- [MV Easter Island](https://github.com/72hourgdc-2003-july/MV Easter Island)
+- [mveimac](https://github.com/72hourgdc-2003-july/mveimac)
+- [Nova Wings](https://github.com/72hourgdc-2003-july/Nova Wings)
+- [PooHillEntryTheMartian](https://github.com/72hourgdc-2003-july/PooHillEntryTheMartian)
+- [spaceboard](https://github.com/72hourgdc-2003-july/spaceboard)
+- [swat-last-stand](https://github.com/72hourgdc-2003-july/swat-last-stand)
+- [vietbunny](https://github.com/72hourgdc-2003-july/vietbunny)
 
 ### Competition #2: Food
 
